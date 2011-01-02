@@ -1,5 +1,5 @@
 %define upstream_name    Config-JFDI
-%define upstream_version 0.064
+%define upstream_version 0.065
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
